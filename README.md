@@ -15,3 +15,14 @@ Python 3.x installed
 Installation and Running
 
 Clone the repository:
+ git clone https://github.com/NamanDcode/QuadB-Tech/
+ cd your-repo-name
+
+Run the blockchain simulation:
+python blockchain.py
+
+File Structure
+
+blockchain.py: Main script implementing the blockchain.
+
+README.md: Instructions for setup and execution.
